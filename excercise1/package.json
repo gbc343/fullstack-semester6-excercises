@@ -1,0 +1,21 @@
+{
+  "name": "exercise1",
+  "version": "1.0.0",
+  "description": "Excercise1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "file",
+    "system",
+    "nodejs"
+  ],
+  "author": "Gordon Wells",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "get-line": "^0.1.2"
+  }
+}
