@@ -1,0 +1,22 @@
+{
+    "name": "excercise2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "calculator.js",
+    "scripts": {
+        "test": "mocha"
+
+    },
+    "keywords": [
+        "fs",
+        "file",
+        "system",
+        "nodejs"
+    ],
+    "author": "Gordon Wells",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^8.2.1"
+    }
+}
